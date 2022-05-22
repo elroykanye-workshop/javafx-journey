@@ -6,4 +6,6 @@ module com.elroykanye.p2personui {
 
     opens com.elroykanye.p2personui to javafx.fxml;
     exports com.elroykanye.p2personui;
+    exports com.elroykanye.p2personui.controller;
+    opens com.elroykanye.p2personui.controller to javafx.fxml;
 }

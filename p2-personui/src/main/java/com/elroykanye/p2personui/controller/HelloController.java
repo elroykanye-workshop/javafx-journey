@@ -1,4 +1,4 @@
-package com.elroykanye.p2personui;
+package com.elroykanye.p2personui.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

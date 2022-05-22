@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="javafx-journey" />
         <module name="p1-helloworld" />
+        <module name="p2-personui" />
       </profile>
     </annotationProcessing>
   </component>
